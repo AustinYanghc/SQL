@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="week 4" id="7266CBC2-97D1-8F39-32C8-5AB410A7F499" version="3.5">
+<createdBy>Austin</createdBy>
+<createdTime>2017-08-15 00:03:10 UTC</createdTime>
+<ownerDesignName>week 4</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>7266CBC2-97D1-8F39-32C8-5AB410A7F499</designId>
+</OSDM_Design>
